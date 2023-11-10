@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "category_id": 1,
+    "name": "Agua / aguas saborizadas",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minus, incidunt!",
+    "price": {
+      "value": 1500,
+      "currency": "ARS"
+    }
+  },
+  {
+    "id": 2,
+    "category_id": 1,
+    "name": "Gaseosas línea Coca Cola",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minus, incidunt!",
+    "price": {
+      "value": 1500,
+      "currency": "ARS"
+    }
+  },
+  {
+    "id": 3,
+    "category_id": 2,
+    "name": "Empanadas de carne cortada cuchillo/verdura/jamón y queso",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minus, incidunt!",
+    "price": {
+      "value": 1000,
+      "currency": "ARS"
+    }
+  },
+  {
+    "id": 4,
+    "category_id": 2,
+    "name": "Pizza Margarita estilo napolitana",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minus, incidunt!",
+    "price": {
+      "value": 4500,
+      "currency": "ARS"
+    }
+  }
+]
